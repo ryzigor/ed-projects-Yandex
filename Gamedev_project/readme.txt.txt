@@ -7,4 +7,4 @@
 Проект выполнен по выбору в области Gamedev.
 Работа выполнена на python c приложением презентации в форматах PP и PDF
 Дополнительно в рамках задания выполнен дашборд в Tableau (доступен онлайн по ссылке 
-Использовалиьс библиотеки python: pandas, numpy, pyplot, scipy.stats, datetime, seaborn, os
+Использовались библиотеки python: pandas, numpy, pyplot, scipy.stats, datetime, seaborn, os
